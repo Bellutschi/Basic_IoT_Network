@@ -15,4 +15,4 @@ Scripts for a small IoT-Network:
 
 - Displaying Sensordata in a table
 
--> Display_Data (.php) (Fetching Sensor Data from the Database, simple basic display
+-> Display_Data (.php) (Fetching Sensor Data from the Database, simple basic display)
